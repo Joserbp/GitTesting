@@ -60,7 +60,7 @@
 				EBFC27232A0AE7C400E72333 /* View */,
 				EBFC27222A0AE7BF00E72333 /* Model */,
 				EBFC270E2A0AE4FD00E72333 /* AppDelegate.swift */,
-				EBFC27122A0AE4FD00E72333 /* ViewController.swift */,
+				EBFC27102A0AE4FD00E72333 /* SceneDelegate.swift */,
 				EBFC27172A0AE4FF00E72333 /* Assets.xcassets */,
 				EBFC271C2A0AE4FF00E72333 /* Info.plist */,
 			);
@@ -86,7 +86,7 @@
 		EBFC27242A0AE7C800E72333 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				EBFC27102A0AE4FD00E72333 /* SceneDelegate.swift */,
+				EBFC27122A0AE4FD00E72333 /* ViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
