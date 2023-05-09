@@ -13,6 +13,7 @@
 		EBFC27162A0AE4FD00E72333 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBFC27142A0AE4FD00E72333 /* Main.storyboard */; };
 		EBFC27182A0AE4FF00E72333 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EBFC27172A0AE4FF00E72333 /* Assets.xcassets */; };
 		EBFC271B2A0AE4FF00E72333 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBFC27192A0AE4FF00E72333 /* LaunchScreen.storyboard */; };
+		EBFC27262A0AFDD000E72333 /* Medicamento.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBFC27252A0AFDD000E72333 /* Medicamento.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EBFC27172A0AE4FF00E72333 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EBFC271A2A0AE4FF00E72333 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EBFC271C2A0AE4FF00E72333 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EBFC27252A0AFDD000E72333 /* Medicamento.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medicamento.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 		EBFC27222A0AE7BF00E72333 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				EBFC27252A0AFDD000E72333 /* Medicamento.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 			files = (
 				EBFC27132A0AE4FD00E72333 /* ViewController.swift in Sources */,
 				EBFC270F2A0AE4FD00E72333 /* AppDelegate.swift in Sources */,
+				EBFC27262A0AFDD000E72333 /* Medicamento.swift in Sources */,
 				EBFC27112A0AE4FD00E72333 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
