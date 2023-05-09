@@ -56,15 +56,39 @@
 		EBFC270D2A0AE4FD00E72333 /* GitTesting */ = {
 			isa = PBXGroup;
 			children = (
+				EBFC27242A0AE7C800E72333 /* Controller */,
+				EBFC27232A0AE7C400E72333 /* View */,
+				EBFC27222A0AE7BF00E72333 /* Model */,
 				EBFC270E2A0AE4FD00E72333 /* AppDelegate.swift */,
-				EBFC27102A0AE4FD00E72333 /* SceneDelegate.swift */,
 				EBFC27122A0AE4FD00E72333 /* ViewController.swift */,
-				EBFC27142A0AE4FD00E72333 /* Main.storyboard */,
 				EBFC27172A0AE4FF00E72333 /* Assets.xcassets */,
-				EBFC27192A0AE4FF00E72333 /* LaunchScreen.storyboard */,
 				EBFC271C2A0AE4FF00E72333 /* Info.plist */,
 			);
 			path = GitTesting;
+			sourceTree = "<group>";
+		};
+		EBFC27222A0AE7BF00E72333 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		EBFC27232A0AE7C400E72333 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				EBFC27192A0AE4FF00E72333 /* LaunchScreen.storyboard */,
+				EBFC27142A0AE4FD00E72333 /* Main.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		EBFC27242A0AE7C800E72333 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				EBFC27102A0AE4FD00E72333 /* SceneDelegate.swift */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
