@@ -8,5 +8,5 @@
 import Foundation
 
 class Medicamento{
-    
+    var Id: Int = 0
 }
