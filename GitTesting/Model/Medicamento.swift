@@ -8,5 +8,6 @@
 import Foundation
 
 class Medicamento{
-    
+    var Id: Int = 0
+    let Nombre : String? = nil
 }
